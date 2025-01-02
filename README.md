@@ -8,4 +8,4 @@ Important note: not all stat configurations exist in the game, and some configur
 
 Usage: first, use F10 on the character creation screen to provide a screen rectangle where the character stats are displayed. Then, use F12 to start rolling for a character and F11 to stop the search.
 
-This was developed for Wildermyth version 1.14+486 Elona Rib. I am not sure if this works in newer versions, but I see no reason why it wouldn't.
+This was developed for Wildermyth version 1.14+486 Elona Rib. I am not sure if this works in newer versions - needs to be tested.
